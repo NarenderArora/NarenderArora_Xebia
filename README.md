@@ -20,3 +20,6 @@ Object oriented programming approach
 • Some UI tests using XCUITest :- just added a UI test case as example to create or run other UI test cases
 
 • Swift is used to develop this application.
+
+• This contain Only Listing of the articles.
+
